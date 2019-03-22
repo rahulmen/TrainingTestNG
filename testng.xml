@@ -5,10 +5,7 @@
 <parameter name = "final" value = "Test12345"/>
 <parameter name = "done" value = "Completed"/>
   <test thread-count="5" name="Test">
-  
-  
 <groups>
-
 <define name = "All">
 <include name = "Sanity"/>
 <include name = "Regression"/>
